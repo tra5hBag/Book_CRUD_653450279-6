@@ -5,9 +5,7 @@ const About = () => {
     <View style={style.container}>
       <Text style={style.title}>About Us</Text>
       <Text style={style.text}>
-        We are a team of passionate developers dedicated to creating amazing
-        applications. Our mission is to deliver high-quality software that
-        enhances user experience and meets the needs of our clients.
+        เราคือเว็บไซต์สำหรับการหาหนังสือ
       </Text>
     </View>
   );
